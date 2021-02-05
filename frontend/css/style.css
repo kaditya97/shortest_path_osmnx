@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#top{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    flex-flow: row;
+}
+#myForm{
+    margin: 10px;
+}
+#map{
+    width: 100%;
+    height: 90vh;
+}
+.leflet-container{
+    width: 100%;
+    height: 100%;
+}
